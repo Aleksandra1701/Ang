@@ -1,0 +1,10 @@
+
+  .bg {
+    height:600px; 
+    background-size:cover; 
+    width:100%;
+    background-image:url('https://www.dexy.co.rs/files/images/slideri/main_sliders1400x520/Sve-akcije-za-super-poklone-1400-x-520_1.webp');
+    background-image:url(https://www.dexy.co.rs/files/images/slideri/main_sliders1400x520/Vazno-obavestenje-1400-x-520_1.webp);
+    background-position:100%;
+    background-repeat: no-repeat;
+  }
